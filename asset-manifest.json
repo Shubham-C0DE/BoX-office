@@ -1,14 +1,13 @@
 {
   "files": {
     "main.css": "/BoX-office/static/css/main.b2586571.css",
-    "main.js": "/BoX-office/static/js/main.67596c74.js",
-    "service-worker.js": "/BoX-office/service-worker.js",
+    "main.js": "/BoX-office/static/js/main.6878f3da.js",
     "index.html": "/BoX-office/index.html",
     "main.b2586571.css.map": "/BoX-office/static/css/main.b2586571.css.map",
-    "main.67596c74.js.map": "/BoX-office/static/js/main.67596c74.js.map"
+    "main.6878f3da.js.map": "/BoX-office/static/js/main.6878f3da.js.map"
   },
   "entrypoints": [
     "static/css/main.b2586571.css",
-    "static/js/main.67596c74.js"
+    "static/js/main.6878f3da.js"
   ]
 }
