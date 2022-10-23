@@ -5,7 +5,10 @@ import Title from './Title';
 const MainPageLayout = ({ children }) => {
   return (
     <div>
-        <Title title = "BOX OFFICE" subtitle = "Are You Looking For A Movie Or An Actor???" />
+        <Title 
+        title = "BOX OFFICE" 
+        subtitle = "Are you looking for a movie or an actor?" 
+        />
       <Navs />
 
       {children}
@@ -14,3 +17,5 @@ const MainPageLayout = ({ children }) => {
 };
 
 export default MainPageLayout;
+
+
